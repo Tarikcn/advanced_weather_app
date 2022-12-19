@@ -142,7 +142,7 @@ the city name with template literals*/
           btn.style.background = "#181e27";
         }
       } else if (
-      /*Same thing for cloudy weather*/
+        /*Same thing for cloudy weather*/
         code == 1003 ||
         code == 1006 ||
         code == 1009 ||
